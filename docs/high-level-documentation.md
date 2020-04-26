@@ -8,7 +8,7 @@ The `model` represents the most important data structures \(`BibDatases`, `BibEn
 
 We use an event bus to publish events from the `model` to the other layers. This allows us to keep the architecture but still react upon changes within the core in the outer layers.
 
-You can view up-to-date diagrams for model, gui, and logic packages [at sourcespy](https://sourcespy.com/github/jabrefjabref/xx-index-.html).
+You can view up-to-date diagrams for model, gui, and logic packages [at sourcespy](https://sourcespy.com/github/jabref/xx-index-.html).
 
 ## Package Structure
 
